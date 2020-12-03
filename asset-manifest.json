@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newton-s-rings/static/css/main.5071132d.chunk.css",
+    "main.js": "/newton-s-rings/static/js/main.93a76263.chunk.js",
+    "main.js.map": "/newton-s-rings/static/js/main.93a76263.chunk.js.map",
+    "runtime-main.js": "/newton-s-rings/static/js/runtime-main.6ccf6eb4.js",
+    "runtime-main.js.map": "/newton-s-rings/static/js/runtime-main.6ccf6eb4.js.map",
+    "static/js/2.77440d1c.chunk.js": "/newton-s-rings/static/js/2.77440d1c.chunk.js",
+    "static/js/2.77440d1c.chunk.js.map": "/newton-s-rings/static/js/2.77440d1c.chunk.js.map",
+    "static/js/3.8273ca2f.chunk.js": "/newton-s-rings/static/js/3.8273ca2f.chunk.js",
+    "static/js/3.8273ca2f.chunk.js.map": "/newton-s-rings/static/js/3.8273ca2f.chunk.js.map",
+    "index.html": "/newton-s-rings/index.html",
+    "static/css/main.5071132d.chunk.css.map": "/newton-s-rings/static/css/main.5071132d.chunk.css.map",
+    "static/js/2.77440d1c.chunk.js.LICENSE.txt": "/newton-s-rings/static/js/2.77440d1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ccf6eb4.js",
+    "static/js/2.77440d1c.chunk.js",
+    "static/css/main.5071132d.chunk.css",
+    "static/js/main.93a76263.chunk.js"
+  ]
+}
